@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+    <defs>
+        <linearGradient id="a" x1="0%" y1="50%" y2="50%">
+            <stop offset="0%" stop-color="#3EC2FF"/>
+            <stop offset="100%" stop-color="#289BFF"/>
+        </linearGradient>
+        <linearGradient id="d" x1="-49.609%" x2="60.889%" y1="161.943%" y2="20.854%">
+            <stop offset="0%" stop-color="#BCEBFF"/>
+            <stop offset="100%" stop-color="#FFF"/>
+        </linearGradient>
+        <path id="c" d="M19.5 0a4.504 4.504 0 0 0-4.422 5.344c.03.207-.13.38-.312.562l-1.047 1.047c.504.58 1.049 1.176 1.61 1.734.556.555 1.138 1.08 1.718 1.579l1.078-1.079c.195-.197.316-.31.563-.265.28.05.552.078.812.078C21.982 9 24 6.982 24 4.5S21.982 0 19.5 0zM8.734 2.844a.6.6 0 0 0-.39.156l-.453.453c-1.325 1.324.144 3.375 1.218 4.875.24.338.465.664.625.922.06.121.098.559-.062.719l-1.219 1.219c-.303.3-.469.654-.469 1.046 0 .475.24.961.672 1.391l1.75 1.766c.432.431.918.656 1.39.656.392 0 .76-.166 1.063-.469l1.22-1.219c.066-.066.214-.109.39-.109a.93.93 0 0 1 .36.063c.265.162.581.4.921.64 1.111.787 2.377 1.672 3.516 1.672.505 0 .933-.17 1.28-.516l.454-.453a.569.569 0 0 0 .156-.437c-.027-.42-.398-.725-2-1.969-1.265-.984-3-2.334-4.531-3.86-1.58-1.576-2.965-3.337-3.969-4.624C9.42 3.178 9.15 2.844 8.734 2.844zM7.5 9C3.365 9 0 12.365 0 16.5S3.365 24 7.5 24s7.5-3.365 7.5-7.5a7.79 7.79 0 0 0-.063-.906c-.142-.102-.28-.2-.406-.281l-.969.984c-.41.412-.925.648-1.468.719A4.629 4.629 0 0 1 7.5 21.125 4.63 4.63 0 0 1 2.875 16.5c0-2.389 1.828-4.355 4.156-4.594.076-.529.319-1.037.719-1.437l.969-.969c-.092-.135-.201-.281-.313-.438A7.76 7.76 0 0 0 7.5 9z"/>
+        <filter id="b" width="158.3%" height="158.3%" x="-29.2%" y="-20.8%" filterUnits="objectBoundingBox">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.101960784 0 0 0 0 0.568627451 0 0 0 0 1 0 0 0 1 0"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <circle cx="24" cy="24" r="24" fill="url(#a)"/>
+        <g fill-rule="nonzero" transform="translate(12 12)">
+            <use fill="#000" filter="url(#b)" xlink:href="#c"/>
+            <use fill="url(#d)" fill-rule="evenodd" xlink:href="#c"/>
+        </g>
+    </g>
+</svg>

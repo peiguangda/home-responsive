@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38" height="36" viewBox="0 0 38 36">
+    <g fill="none" fill-rule="evenodd">
+        <path d="M-19-6h75v48h-75z"/>
+        <text fill="#999" font-family="SFProDisplay-Regular, SF Pro Display" font-size="11" transform="translate(-19 -6)">
+            <tspan x="19" y="41">Cá nhân</tspan>
+        </text>
+        <path d="M7-1h24v24H7z"/>
+        <g stroke="#999" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(9 1)">
+            <circle cx="10" cy="4.5" r="4.5"/>
+            <path d="M10 12C5.719 12 .913 14.602.5 15.5c-.339.736-.5 3-.5 3 0 .827.67 1.5 1.497 1.5h17.006A1.5 1.5 0 0 0 20 18.5s-.161-2.264-.5-3c-.413-.898-5.219-3.5-9.5-3.5z"/>
+        </g>
+    </g>
+</svg>

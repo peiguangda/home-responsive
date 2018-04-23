@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="46" height="40" viewBox="0 0 46 40">
+    <g fill="none" fill-rule="evenodd">
+        <path d="M-14-5h75v48h-75z"/>
+        <text fill="#999" font-family="SFProDisplay-Regular, SF Pro Display" font-size="11" transform="translate(-14 -5)">
+            <tspan x="14" y="42">Trang chủ</tspan>
+        </text>
+        <path d="M12-1h24v24H12z"/>
+        <path stroke="#999" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M27 21h5.5c.828 0 1.5-.668 1.5-1.503v-8.5c0-.827-.51-1.93-1.142-2.468L24 1l-8.858 7.53C14.512 9.064 14 10.17 14 10.996v8.5c0 .835.67 1.503 1.497 1.503H21v-7h6v7z"/>
+    </g>
+</svg>

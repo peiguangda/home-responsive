@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="38" viewBox="0 0 44 38">
+    <g fill="none" fill-rule="evenodd">
+        <path d="M-15-7h75v48h-75z" opacity=".86"/>
+        <text fill="#999" font-family="SFProDisplay-Regular, SF Pro Display" font-size="11" transform="translate(-15 -7)">
+            <tspan x="15" y="42">Hội nhóm</tspan>
+        </text>
+        <path d="M11-3h24v24H11z"/>
+        <g stroke="#999" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+            <path d="M13 4.003A3 3 0 0 1 15.994 1h14.012A2.997 2.997 0 0 1 33 4.003v7.994A3 3 0 0 1 30.01 15H29v4l-4.5-4h-8.509A2.996 2.996 0 0 1 13 11.997V4.003zM18.5 6h9M18.5 10h6"/>
+        </g>
+    </g>
+</svg>
